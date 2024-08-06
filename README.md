@@ -2,7 +2,17 @@
 
 ###
 
-<p align="left">My name is Benjamin and I'm a Junior Webdeveloper, from Cologne.</p>
+<p align="left">My name is Benjamin and I'm a web developer who was born and raised near Cologne. Since I was a child,
+I've been passionate about technology and computer science. Ever since I came into
+contact with coding, I have been very enthusiastic. I like to try out new things,
+libraries and frameworks to make great software!</p>
+
+<p align="left">Apart from programming, I am an enthusiastic gamer. From almost all Square Enix
+games, like Kingdom Hearts or Final Fantasy, which accompanied my youth, to
+Baldur's Gate and fantastic titles from Nintendo, such as Zelda or Super Smash
+Bros. When I am not at the computer, I spend a lot of time on the football field
+as an assistant coach for a local club or cheer for my favorite team, 1. FC
+Köln.</p>
 
 ###
 
